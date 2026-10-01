@@ -79,51 +79,21 @@ The objective of this project is to:
 \- GitHub
 
 
-
-\## 🔄 Machine Learning Workflow
-
-
-
-The project follows a structured machine learning workflow:
-
-
-
-```text
-
-Dataset
-
-&#x20;  ↓
-
-Data Exploration
-
-&#x20;  ↓
-
-Data Preprocessing
-
-&#x20;  ↓
-
-Feature Preparation
-
-&#x20;  ↓
-
-Train-Test Split
-
-&#x20;  ↓
-
-Model Development
-
-&#x20;  ↓
-
-Model Evaluation
-
-&#x20;  ↓
-
-Prediction
-
-&#x20;  ↓
-
-Final Results
-
+💡 Key Learning Outcomes
+Through this project, I gained practical experience in:
+- Data exploration
+- Data cleaning
+- Missing value analysis
+- Data preprocessing
+- Feature preparation
+- Train-test splitting
+- Machine learning model development
+- Model evaluation
+- Prediction generation
+- Working with CSV datasets
+- Using Python for machine learning
+- Using Jupyter Notebook for data analysis
+- Managing a project using Git and GitHub
 
 
 👨‍💻 Author
